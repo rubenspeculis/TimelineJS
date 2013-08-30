@@ -2739,7 +2739,7 @@ if(typeof VMM != 'undefined' && typeof VMM.Language == 'undefined') {
 		},
 		messages: {
 			loading_timeline: "Loading Timeline... ",
-			return_to_title: "Return to Title",
+			return_to_title: "View timeline instructions",
 			expand_timeline: "Expand Timeline",
 			contract_timeline: "Contract Timeline",
 			wikipedia: "From Wikipedia, the free encyclopedia",
